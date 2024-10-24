@@ -1,0 +1,13 @@
+# Автоматическая обработка концов строк для текстовых файлов
+* text=auto
+
+# Явно указываем текстовые файлы
+*.html text
+*.css text
+*.js text
+*.md text
+
+# Бинарные файлы
+*.png binary
+*.jpg binary
+*.gif binary
